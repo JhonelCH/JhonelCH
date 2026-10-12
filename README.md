@@ -1,0 +1,57 @@
+<table>
+  <tr>
+    <!-- COLUMNA IZQUIERDA: TU FOTO EN ARTE ASCII -->
+    <td valign="top" width="45%">
+<pre>
+*#*++**+++++++++++==+====+++*#%%%%#*%#*++=====
+#+***++++++++*+++=++==++++#%@@@@@@@%%#+=======
+****+++++++**++==++==++++*#%@@@@@@@@%###*+====
+*****+++***++++++=++++=*++*****#%@@@%#%%%%#===
+*+**++****++++++=+++++===++----=*%@@%%@@@%%*==
+****+*#**+++++++++=-==-=##%%*===+#%@@@@@@@@#+=
++***+++++++++++++++===--*%@%@%*++#%%@@@@@@@#+=
+************++++++======+#%%%#****#%%%@@@@@#++
+##*%@%****#*******++++++++=-=*%@@%##%%@@@@*+++
+%####****#*##*+-+###*=-+=-=+#%@@@@@%#@@@#+++++
+#****#####***=-=*##*##+#%#####%%%%%###++++++++
+#%%##*****##=-=+#+=#%%@#%%#########*++++++++++
+#####*****+--=+*#%##%%%@%######**#++++++++++++
+#######**#+--=+#%%%%%%%%%#######++++++++++++=*
+%%%%####%%+===*%%%%%%@@@@@@@#**+++++++++*+====
+##########*###@@@@@@@@@@@@@@@#*###*++++=======
+@@@@%%##%%@@%%@@@@@@@@@@@@@@@##%###**=========
+%%###%#####%%%@@@@@@@@@@@%%%@%%#=+*===========
+@%#%###%%%%%@%#%%#%%#%%####*#%%%=**==========-
+%%#%%##%@@%#####%%###########**%=+*+==========
+##%%@@@%####%%%%###%##%%###*****-=#+==========
+</pre>
+    </td>
+
+    <!-- COLUMNA DERECHA: TU INFORMACIÓN EN ESPAÑOL -->
+    <td valign="top" width="55%">
+<pre>
+<b>jhonel@JhonelCH</b>
+--------------------
+<b>SO:</b>             Windows 11, Linux
+<b>Tiempo:</b>         28 Años (aprox.)
+<b>Rol:</b>            Desarrollador Full Stack
+<b>IDE:</b>            VS Code, GitHub Desktop
+
+<span style="color: #ff79c6;"><b>Lenguajes de Programación:</b></span> JavaScript, TypeScript, HTML, CSS, Bash
+<span style="color: #ff79c6;"><b>Idiomas:</b></span>                   Español (Nativo), Inglés (Básico)
+
+<span style="color: #ff79c6;"><b>Pasatiempos / Software:</b></span>    Desarrollo Web, Personalización de Linux
+
+<b>Contacto</b>
+--------------------
+<b>Correo Personal:</b>        <a href="jhon.callatah@gmail.com" style="color: #8be9fd;">jhon.callatah@gmail.com</a>
+<b>LinkedIn:</b>               <a href="https://linkedin.com" style="color: #8be9fd;">JhonelCH</a>
+
+<b>Estadísticas de GitHub</b>
+--------------------
+<b>Repositorios:</b>    <img src="https://shields.io" alt="Repositorios">
+<b>Estrellas:</b>       <img src="https://shields.io" alt="Estrellas">
+</pre>
+    </td>
+  </tr>
+</table>
